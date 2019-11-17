@@ -1,6 +1,5 @@
 #include <iostream>
 
-class AbstractBehavior;
 class Entity
 {
 	friend class AbstractBehavior;
