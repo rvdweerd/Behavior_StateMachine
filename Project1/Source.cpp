@@ -92,10 +92,11 @@ void BehaviorB::Show(Entity& e)
 
 int main()
 {
-	Entity ent(100);
-	ent.Show();
-	ent.Show();
-
+	{
+		Entity ent(100);
+		ent.Show();
+		ent.Show();
+	}
 
 
 	std::cin.get();
