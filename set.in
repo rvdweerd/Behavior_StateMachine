@@ -1,6 +1,0 @@
-insert 10
-insert 20
-exists 10
-exists 30
-delete 10
-exists 10

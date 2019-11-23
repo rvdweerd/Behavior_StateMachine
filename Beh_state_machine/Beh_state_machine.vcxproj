@@ -21,9 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{13A2D078-9C0E-4B2E-8BA3-BDB041EA6BFF}</ProjectGuid>
-    <RootNamespace>Project1</RootNamespace>
+    <RootNamespace>Beh_state_machine</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Behavior_StateMachine</ProjectName>
+    <ProjectName>Beh_state_machine</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
